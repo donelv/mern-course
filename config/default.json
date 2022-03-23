@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "donelv youtube mern",
+  "mongoUri": "mongodb+srv://donel:admin1234@cluster0.7swvm.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
